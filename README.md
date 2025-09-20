@@ -1,7 +1,4 @@
-# GIFOS
-
 # Tercer proyecto de Acámica - Desarrollo Web Frontend
-
 
 ## Descripción general
 
