@@ -6,4 +6,4 @@ Este proyecto tiene como objetivo desarrollar en React JS un catálogo de alojam
 
 ## Demo
 
-La demo final del proyecto se encuentra disponible en https://reservaalojamientos.now.sh
+La demo final del proyecto se encuentra disponible en https://reserva-alojamientos.netlify.app/
